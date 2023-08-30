@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "18523000000004065",
+      "name": "node-zoho",
+      "domain": {
+        "id": "10064392018",
+        "name": "node-zoho-824795877.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "824795877",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

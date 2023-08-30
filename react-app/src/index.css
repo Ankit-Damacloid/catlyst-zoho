@@ -1,0 +1,27 @@
+body,
+p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+input {
+  margin: 0;
+  resize: none;
+  border: none;
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+button {
+  padding: 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: transparent;
+}

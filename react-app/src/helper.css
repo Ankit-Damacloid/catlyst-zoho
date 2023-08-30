@@ -1,0 +1,62 @@
+.my-5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    }
+    .mr-5 {
+    margin-right: 5px;
+    }
+    .ml-10 {
+    margin-left: 10px;
+    }
+
+    .px-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+    }
+
+    .p-20 {
+    padding: 20px;
+    }
+
+    .w-full {
+    width: 100%;
+    }
+
+    .text-28 {
+    font-size: 28px;
+    }
+
+    .text-16 {
+    font-size: 16px;
+    }
+
+    .text-white {
+    color: #fff;
+    }
+    .text-info {
+    color: #919191;
+    }
+
+    .dF {
+    display: flex;
+    }
+
+    .aI-center {
+    align-items: center;
+    }
+
+    .jC-center {
+    justify-content: center;
+    }
+
+    .flex-1 {
+    flex-grow: 1;
+    }
+
+    .h-inh {
+    height: inherit;
+    }
+
+    .font-700 {
+    font-weight: 700;
+    }
